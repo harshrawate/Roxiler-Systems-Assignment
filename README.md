@@ -1,6 +1,6 @@
 # Store Rating Platform
 
-A full-stack web application that allows users to submit and manage ratings for stores. Built with **React (Vite), Node.js, Express, and PostgreSQL**, this platform features a robust Role-Based Access Control (RBAC) system for System Administrators, Store Owners, and Normal Users.
+A full-stack web application that allows users to submit and manage ratings for stores. Built with **React (Vite), Node.js, Express, and PostgreSQL**, this platform features a robust Role-Based Access Control (RBAC) system for System Administrators, Store Owners, and Normal Users
 
 ## 🚀 Features
 
